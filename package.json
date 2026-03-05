@@ -1,0 +1,20 @@
+{
+  "name": "AI_Agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "dependencies": {
+    "@langchain/core": "^1.1.30",
+    "@langchain/openai": "^1.2.12",
+    "dotenv": "^17.3.1",
+    "install": "^0.13.0",
+    "langchain": "^1.2.29"
+  }
+}
